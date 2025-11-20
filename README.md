@@ -27,7 +27,7 @@ It includes a launch template configured with a user data script that installs a
 
 ```bash
 # Clone the repository
-git clone https://github.com/satheesh-kamadani/terraform-aws-ec2-asg-infra.git
+git clone https://github.com/(This Repo).git
 cd terraform-aws-ec2-asg-infra
 
 # Configure AWS CLI with your access keys
