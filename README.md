@@ -1,4 +1,4 @@
-# 🚀 Terraform AWS EC2 Auto Scaling Infrastructure
+# Terraform AWS EC2 Auto Scaling Infrastructure
 
 ### Overview
 This project provisions a **highly available AWS EC2 Auto Scaling Group (ASG)** with a **VPC, subnet, Internet Gateway, Route Table, and Security Group** using Terraform.  
@@ -6,7 +6,7 @@ It includes a launch template configured with a user data script that installs a
 
 ---
 
-### 🧱 Features
+### Features
 - Create VPC, public subnet, and Internet Gateway
 - Configure SSH and HTTP Security Groups
 - Create and associate an SSH Key Pair
@@ -16,14 +16,14 @@ It includes a launch template configured with a user data script that installs a
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 - **Infrastructure as Code (IaC):** Terraform  
 - **Cloud Provider:** AWS (EC2, VPC, IGW, ASG)  
 - **Operating System:** Amazon Linux 2  
 
 ---
 
-### ⚙️ Setup Instructions
+### Setup Instructions
 
 ```bash
 # Clone the repository
